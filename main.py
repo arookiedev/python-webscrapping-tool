@@ -1,4 +1,4 @@
-from data import data_getting, action_function_call
+from data import data_getting
 from data.actions import HTML_printer, JSON_printer
 from pystyle import Colorate, Colors
 from pycenter import center
